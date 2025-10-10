@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm N.GURUPRASATH</h1>
-<h3 align="center">Aspiring Software Engineer: Eager to Innovate and Create</h3>
+<h3 align="center"> Web Application Developer : Eager to Innovate and Create</h3>
 
-- 🌱 I’m currently learning **M.Sc Computer Science**
+- 🧑🏻‍💻 I’m currently **Working as Web Application Developer at Sigma Technologies**
 
 - 💬 Ask me about **Problem Solving**
 
 - 📫 How to reach me **guruprasath2902@gmail.com**
+
+- 📲 contact **+91 99658 41143**
 
 
 <h3 align="left">Connect with me:</h3>
