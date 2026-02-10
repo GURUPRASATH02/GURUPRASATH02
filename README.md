@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm N.GURUPRASATH</h1>
 <h3 align="center"> Web Application Developer : Eager to Innovate and Create</h3>
 
-- 🧑🏻‍💻 I’m currently **Worked as Flutter App Developer at U2 BreakThrough Technologies(Nov2025 - Jan2026)**
+- 🧑🏻‍💻 I’m recently, **Worked as Flutter App Developer at U2 BreakThrough Technologies(Nov2025 - Jan2026)**
 
 - 💬 Ask me about **Mobile  App Development**
 
