@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm N.GURUPRASATH</h1>
 <h3 align="center"> Web Application Developer : Eager to Innovate and Create</h3>
 
-- 🧑🏻‍💻 I’m currently **Working as Web Application Developer at Sigma Technologies**
+- 🧑🏻‍💻 I’m currently **Worked as Flutter App Developer at U2 BreakThrough Technologies(Nov2025 - Jan2026)**
 
-- 💬 Ask me about **Problem Solving**
+- 💬 Ask me about **Mobile  App Development**
 
 - 📫 How to reach me **guruprasath2902@gmail.com**
 
